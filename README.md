@@ -1,4 +1,4 @@
-# In this project, I developed a movie application with Next.js. Server Side Rendering and Client Side Rendering were used in the project. Movie data was pulled from the database through APIs.
+# In this project, I developed a movie application with Next.js. Server Side Rendering and Client Side Rendering were used in the project. Movie data was pulled from the database through APIs. In the design part, I used Tailwind CSS.
 <br>
 <br>
 
